@@ -54,5 +54,19 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Camera",
+        "image": "logo.png",
+        "description": "Best camera in the World",
+        "price": 1500.00
+    },
+    {
+        "id": "10",
+        "title": "Cat",
+        "image": "cat.jpg",
+        "description": "Sad Cat",
+        "price": 1500.00
     }
 ]
